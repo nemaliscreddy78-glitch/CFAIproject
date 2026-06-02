@@ -3,39 +3,6 @@
 UNIVERSAL AI-BASED EXAM SEATING ARRANGEMENT SYSTEM
 ===========================================================
 
-CO1 Topics Used:
----------------
-✓ PEAS Agent Model
-✓ Problem Formulation
-✓ State Representation
-✓ Rule-Based Knowledge Representation
-✓ Classes, Functions, Dictionaries, Lists
-✓ Complexity-Aware Coding
-✓ Trace Logging
-
-CO2 Topics Used:
----------------
-✓ DFS Search
-✓ Heuristic-Based Selection
-✓ State Space Search
-✓ Runtime Profiling
-✓ Graph/Implicit Search Concepts
-
-CO3 Topics Used:
----------------
-✓ CSP Modeling
-✓ Backtracking
-✓ Forward Checking
-✓ MRV Heuristic
-✓ Constraint Failure Explanation
-✓ Timetabling/Scheduling
-
-RULE:
------
-Students belonging to the same group should not sit
-in adjacent seats whenever possible.
-
-===========================================================
 """
 
 from time import time
