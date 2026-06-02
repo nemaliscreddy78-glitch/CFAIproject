@@ -1,6 +1,6 @@
 """
 ===========================================================
-UNIVERSAL AI-BASED EXAM SEATING ARRANGEMENT SYSTEM
+EXAM SEATING ARRANGEMENT SYSTEM
 ===========================================================
 
 """
@@ -428,7 +428,7 @@ while True:
     print("\n")
     print("=" * 60)
     print(
-        "UNIVERSAL EXAM SEATING ARRANGEMENT SYSTEM"
+        " EXAM SEATING ARRANGEMENT SYSTEM"
     )
     print("=" * 60)
 
